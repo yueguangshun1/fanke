@@ -10,6 +10,15 @@
         </mt-swipe>
       </div>
       <div class="prd-tit" v-for="ele in banner">
+      	
+      	
+      	
+      	
+      	
+      	
+      	
+      	
+      	
             <span>{{ele.p_name}}</span>
             <span class="span1">{{ele.price}}元</span>
             <p>充100返100，点击充值</p>
